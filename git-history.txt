@@ -1,0 +1,41 @@
+commit 9b64d51bb0cad1b94621339c26c51af2328fdcd3
+Author: Pavláth Jenő <Pavláth Jenő>
+Date:   Sun Mar 13 16:03:00 2022 -0700
+
+    seventh commit make history file
+
+commit f09057843227ba3ed755a88ea4ee4e632a9b0699
+Author: Pavláth Jenő <Pavláth Jenő>
+Date:   Sun Mar 13 15:56:56 2022 -0700
+
+    sixth commit rename and move file
+
+commit 0d8f411038749bcd4dd9adad393e212c9b34ff30
+Author: Pavláth Jenő <Pavláth Jenő>
+Date:   Sun Mar 13 15:55:55 2022 -0700
+
+    fifth commit rename
+
+commit fa89bf74d65a9a9f0e3bc8fb3b3b6f607c95c770
+Author: Pavláth Jenő <Pavláth Jenő>
+Date:   Sun Mar 13 15:53:05 2022 -0700
+
+    fourth commit add 3 lines
+
+commit 0904dc5a3fb871763a95e8de9548927ef373f95f
+Author: Pavláth Jenő <Pavláth Jenő>
+Date:   Sun Mar 13 15:51:32 2022 -0700
+
+    third commit to set gitignore file
+
+commit 6573879018225f526c065fc3829e7e7f5e093dcb
+Author: Pavláth Jenő <Pavláth Jenő>
+Date:   Sun Mar 13 15:39:58 2022 -0700
+
+    second commit
+
+commit d3c1ece1f2b6cedcee67caa71fc198487a4d4cb8
+Author: Pavláth Jenő <Pavláth Jenő>
+Date:   Sun Mar 13 15:37:31 2022 -0700
+
+    first commit
